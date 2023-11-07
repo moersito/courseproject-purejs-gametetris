@@ -54,7 +54,7 @@ Sample project using pure or vanila Javascript for Tetris game
 </html>
 ```
 
-### 2. Buatlah folder dengan nama css, js, images.
+### 2. Buatlah folder dengan nama css, js.
 
 ### 3. Buatlah file style.css di dalam folder css dengan kode berikut,
 ```
